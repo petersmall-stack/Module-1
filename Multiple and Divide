@@ -1,6 +1,6 @@
-user_num1=int(input())
-user_num2=int(input())
-sum_num=user_num1*user_num2
-diff_num=user_num1/user_num2
+num1=int(input())
+num2=int(input())
+sum_num=num1*num2
+diff_num=num1/num2
 print(sum_num)
 print(diff_num)
